@@ -1,0 +1,26 @@
+<templateSet group="HMTL Special Characters">
+  <template name="ä" value="&amp;auml;" description="lowercase a, umlaut" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP String Literal" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ö" value="&amp;ouml;" description="lowercase o, umlaut" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP String Literal" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ü" value="&amp;uuml;" description="lowercase u, umlaut" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP String Literal" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ß" value="&amp;szlig;" description="lowercase sharps, German" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP String Literal" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

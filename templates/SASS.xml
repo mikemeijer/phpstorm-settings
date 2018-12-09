@@ -1,0 +1,33 @@
+<templateSet group="SASS">
+  <template name="mq" value="// xs&#10;@include mq($until: sm) {&#10;}&#10;&#10;// sm-down&#10;@include mq($until: md) {&#10;}&#10;&#10;// sm-up&#10;@include mq(sm) {&#10;}&#10;&#10;// md-up&#10;@include mq(md) {&#10;}&#10;&#10;// lg-up&#10;@include mq(lg) {&#10;}&#10;&#10;// xlg-up&#10;@include mq(xlg) {&#10;}" description="Media Queries sass-mq" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="mqfromuntil" value="// from $FROM$ until $UNTIL$&#10;@include mq($FROM$, $UNTIL$) {&#10;  $END$&#10;}" description="sass-mq fromuntil helper" toReformat="false" toShortenFQNames="true">
+    <variable name="FROM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="UNTIL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="mqonly" value="// $FROM$ only&#10;@include mq($FROM$, $UNTIL$) {&#10;  $END$&#10;}" description="sass-mq only helper" toReformat="false" toShortenFQNames="true">
+    <variable name="FROM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="UNTIL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="mquntil" value="// until $VIEWPORT$&#10;@include mq($until: $VIEWPORT$) {&#10;  $END$&#10;}" description="sass-mq until helper" toReformat="false" toShortenFQNames="true">
+    <variable name="VIEWPORT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="mqup" value="// $VIEWPORT$ up&#10;@include mq($VIEWPORT$) {&#10;  $END$&#10;}" description="sass-mq up helper" toReformat="false" toShortenFQNames="true">
+    <variable name="VIEWPORT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>

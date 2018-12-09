@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="vue" type="HTML" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="layouts" type="PLAIN_TEXT" />
+      <mapping pattern="_block--about-us.scss" type="PLAIN_TEXT" />
+      <mapping pattern="_testimonial.scss" type="PLAIN_TEXT" />
+      <mapping pattern="ionicons" type="PLAIN_TEXT" />
+      <mapping pattern=".bablerc" type="PLAIN_TEXT" />
+      <mapping pattern="cv.php" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping pattern="_normalize.scss" type="SCSS" />
+      <removed_mapping ext="vue" type="Vue.js file" />
+    </extensionMap>
+  </component>
+</application>
