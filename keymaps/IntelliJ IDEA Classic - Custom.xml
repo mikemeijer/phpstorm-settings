@@ -6,7 +6,4 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="OverrideMethods" />
-  <action id="Vcs.RefreshStatuses">
-    <keyboard-shortcut first-keystroke="ctrl k" />
-  </action>
 </keymap>
