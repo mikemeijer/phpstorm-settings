@@ -1,4 +1,5 @@
 <keymap version="1" name="IntelliJ IDEA Classic - Custom" parent="$default">
+  <action id="ActivateTerminalToolWindow" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
@@ -6,4 +7,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="OverrideMethods" />
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="alt f12" />
+  </action>
 </keymap>
