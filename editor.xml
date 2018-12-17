@@ -1,9 +1,7 @@
 <application>
-  <component name="EditorSettings">
-    <option name="SHOW_BREADCRUMBS" value="false" />
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="16" />
+    <option name="LINE_SPACING" value="1.2" />
   </component>
   <component name="LiveEditOptions" updatePolicy="AUTO" />
-  <component name="XmlEditorOptions">
-    <option name="tagTreeHighlightingEnabled" value="false" />
-  </component>
 </application>
