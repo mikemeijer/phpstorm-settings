@@ -1,0 +1,5 @@
+<application>
+  <component name="Git.Application.Settings">
+    <option name="myPathToGit" value="/run/user/1000/gvfs/sftp:host=dev-mike.dutchtelco.nl,port=51222,user=mike/usr/bin/git" />
+  </component>
+</application>
