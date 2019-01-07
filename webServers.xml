@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="7fe03272-a30d-4b8c-b83e-898fa6e952e7" name="Virtual Machine - Users API" url="http://192.168.1.16">
-        <fileTransfer host="192.168.1.16" port="22" rootFolder="/var/www/html/users-api" accessType="SFTP">
+      <webServer id="7fe03272-a30d-4b8c-b83e-898fa6e952e7" name="Virtual Machine - Users API" url="http://192.168.1.13">
+        <fileTransfer host="192.168.1.13" port="22" rootFolder="/var/www/html/users-api" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
