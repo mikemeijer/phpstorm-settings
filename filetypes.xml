@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="UsersApiException" type="PHP" />
+      <mapping pattern="ValidatorFactory" type="PHP" />
       <mapping ext="pph" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="layouts" type="PLAIN_TEXT" />
