@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d9f02415-89bc-4ffe-b618-9cbe471beb3e" name="Virtual Machine  -  Learning Git" url="http://192.168.1.13">
+        <fileTransfer host="192.168.1.13" port="22" rootFolder="/var/www/html/learning-git" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
