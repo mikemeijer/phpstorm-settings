@@ -17,6 +17,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="70b68358-e378-48c5-a625-a9dc484fa176" name="Virtual Machine - Management API" url="http://192.168.1.13">
+        <fileTransfer host="192.168.1.13" port="22" rootFolder="/var/www/html/management-laravel-api" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
