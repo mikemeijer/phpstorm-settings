@@ -25,6 +25,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="b139b93e-2c1f-40be-a193-b8f305cfbcd6" name="Virtual Machine - Phonebook API" url="http://192.168.1.13">
+        <fileTransfer host="192.168.1.13" port="22" rootFolder="/var/www/html/phonebook-laravel-api" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
