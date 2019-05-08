@@ -41,6 +41,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="045b1cf9-e9b4-4eeb-a141-a2f1124fdd2e" name="Virtual Machine - Routing Laravel API" url="http://192.168.1.17">
+        <fileTransfer host="192.168.1.17" port="22" rootFolder="/var/www/html/routing-laravel-api" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
