@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="HtableResource" type="PHP" />
       <mapping pattern="UsersApiException" type="PHP" />
       <mapping pattern="ValidatorFactory" type="PHP" />
       <mapping pattern="CrmParameterBag" type="PHP" />
