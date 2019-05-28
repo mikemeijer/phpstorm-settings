@@ -8,7 +8,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="299314da-c394-4505-996a-5a5a55275cff" name="Remote PHP 7.2" home="sftp://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data WEB_SERVER_CONFIG_ID="7fe03272-a30d-4b8c-b83e-898fa6e952e7" WEB_SERVER_CONFIG_NAME="Virtual Machine - Users API" WEB_SERVER_CREDENTIALS_ID="sftp://mike@192.168.1.13:22" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/mike/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
+        <remote_data WEB_SERVER_CONFIG_ID="2a46616e-08cf-4c18-8798-2e9846c25714" WEB_SERVER_CONFIG_NAME="Virtual Machine - Hosted API" WEB_SERVER_CREDENTIALS_ID="sftp://mike@192.168.1.17:22" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/mike/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
     </interpreters>
   </component>
@@ -81,7 +81,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="299314da-c394-4505-996a-5a5a55275cff" load_method="CUSTOM_LOADER" configuration_file_path="/home/mike/html/users-api/phpunit.xml" custom_loader_path="/var/www/html/routing-laravel-api/vendor/autoload.php" phpunit_phar_path="/run/user/1000/gvfs/sftp:host=192.168.1.13/home/mike/html/users-api/vendor/bin/phpunit" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="299314da-c394-4505-996a-5a5a55275cff" load_method="CUSTOM_LOADER" configuration_file_path="/home/mike/html/hosted-laravel-api/phpunit.xml" custom_loader_path="/var/www/html/hosted-laravel-api/vendor/autoload.php" phpunit_phar_path="/run/user/1000/gvfs/sftp:host=192.168.1.13/home/mike/html/users-api/vendor/bin/phpunit" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
