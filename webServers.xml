@@ -1,8 +1,40 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="7fe03272-a30d-4b8c-b83e-898fa6e952e7" name="Virtual Machine - Users API" url="http://192.168.1.13">
-        <fileTransfer host="192.168.1.13" port="22" rootFolder="/var/www/html/users-api" accessType="SFTP">
+      <webServer id="7fe03272-a30d-4b8c-b83e-898fa6e952e7" name="Virtual Machine - Users API" url="http://192.168.1.17">
+        <fileTransfer host="192.168.1.17" port="22" rootFolder="/var/www/html/users-api" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d9f02415-89bc-4ffe-b618-9cbe471beb3e" name="Virtual Machine  -  Learning Git" url="http://192.168.1.17">
+        <fileTransfer host="192.168.1.17" port="22" rootFolder="/var/www/html/learning-git" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="70b68358-e378-48c5-a625-a9dc484fa176" name="Virtual Machine - Management API" url="http://192.168.1.17">
+        <fileTransfer host="192.168.1.17" port="22" rootFolder="/var/www/html/management-laravel-api" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b139b93e-2c1f-40be-a193-b8f305cfbcd6" name="Virtual Machine - Phonebook API" url="http://192.168.1.17">
+        <fileTransfer host="192.168.1.17" port="22" rootFolder="/var/www/html/phonebook-laravel-api" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5c1962ba-6b6d-485d-912d-2b4e20490288" name="Virtual Machine - Socket.io Server" url="http://192.168.1.17">
+        <fileTransfer host="192.168.1.17" port="22" rootFolder="/var/www/html/socket-io-server" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
