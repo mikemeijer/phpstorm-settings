@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="8fae53a5-0210-4d23-b612-c337e64baa36" name="Poldertoto Website - Poldertoto Plugin" url="http://poldertoto.nl.transurl.nl">
+        <fileTransfer host="poldertoto.nl.transurl.nl" port="22" rootFolder="/www/wp-content/plugins/poldertoto-plugin" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="7fe03272-a30d-4b8c-b83e-898fa6e952e7" name="Virtual Machine - Users API" url="http://192.168.1.17">
         <fileTransfer host="192.168.1.17" port="22" rootFolder="/var/www/html/users-api" accessType="SFTP">
           <advancedOptions>
