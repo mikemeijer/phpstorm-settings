@@ -57,7 +57,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="e1d10496-cc5c-4426-8dc0-7ac8a650861e" name="Ultimate Members - poldertoto" url="http://poldertoto.nl.transurl.nl">
+      <webServer id="e1d10496-cc5c-4426-8dc0-7ac8a650861e" name="PolderToto Plugin" url="http://poldertoto.nl.transurl.nl">
         <fileTransfer host="poldertoto.nl.transurl.nl" port="22" rootFolder="/www/wp-content/plugins/poldertoto-plugin" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
