@@ -65,6 +65,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="db65224e-2211-4587-b1f3-0dcc4cb12922" name="Cronjobs Poldertoto" url="http://poldertoto.nl.transurl.nl">
+        <fileTransfer host="poldertoto.nl.transurl.nl" port="22" rootFolder="/www/cronjobs/mails" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
