@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="7fe03272-a30d-4b8c-b83e-898fa6e952e7" name="Virtual Machine - Users API" url="http://192.168.1.17">
-        <fileTransfer host="192.168.1.17" port="22" rootFolder="/var/www/html/users-api" accessType="SFTP">
+      <webServer id="7fe03272-a30d-4b8c-b83e-898fa6e952e7" name="Virtual Machine - Users API" url="http://192.168.1.16">
+        <fileTransfer host="192.168.1.16" port="22" rootFolder="/var/www/html/users-api" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -25,8 +25,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="b139b93e-2c1f-40be-a193-b8f305cfbcd6" name="Virtual Machine - Phonebook API" url="http://192.168.1.17">
-        <fileTransfer host="192.168.1.17" port="22" rootFolder="/var/www/html/phonebook-laravel-api" accessType="SFTP">
+      <webServer id="b139b93e-2c1f-40be-a193-b8f305cfbcd6" name="Virtual Machine - Phonebook API" url="http://192.168.1.16">
+        <fileTransfer host="192.168.1.16" port="22" rootFolder="/var/www/html/phonebook-laravel-api" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -67,6 +67,14 @@
       </webServer>
       <webServer id="db65224e-2211-4587-b1f3-0dcc4cb12922" name="Cronjobs Poldertoto" url="http://poldertoto.nl.transurl.nl">
         <fileTransfer host="poldertoto.nl.transurl.nl" port="22" rootFolder="/www/cronjobs/mails" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="597be6bc-0e40-47a5-9418-f2df4be75beb" name="Poldertoto - Development" url="http://poldertoto.nl.transurl.nl">
+        <fileTransfer host="poldertoto.nl.transurl.nl" port="22" rootFolder="/subdomains/dev" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
