@@ -1,21 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="HtableResource" type="PHP" />
       <mapping pattern="UsersApiException" type="PHP" />
       <mapping pattern="ValidatorFactory" type="PHP" />
       <mapping pattern="CrmParameterBag" type="PHP" />
       <mapping pattern="PtTeamsTable" type="PHP" />
       <mapping ext="pph" type="PHP" />
+      <mapping pattern="_block--about-us.scss" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="layouts" type="PLAIN_TEXT" />
       <mapping pattern="_testimonial.scss" type="PLAIN_TEXT" />
       <mapping pattern=".bablerc" type="PLAIN_TEXT" />
-      <mapping pattern="ionicons" type="PLAIN_TEXT" />
       <mapping pattern="cv.php" type="PLAIN_TEXT" />
-      <mapping pattern="_block--about-us.scss" type="PLAIN_TEXT" />
+      <mapping pattern="ionicons" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
