@@ -1,9 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="isCompactMenus" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="009688" />
     <option name="userId" value="-1bfa7902:16c6cbb9d51:-8000" />
-    <option name="version" value="4.10.0" />
+    <option name="version" value="4.5.2" />
   </component>
 </application>

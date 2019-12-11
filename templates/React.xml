@@ -1,0 +1,12 @@
+<templateSet group="React">
+  <template name="cmp" value="import React, { Component } from 'react';&#10;import { withStyles } from &quot;@material-ui/core&quot;;&#10;import { withTranslation } from &quot;react-i18next&quot;;&#10;import { TFunction } from &quot;i18next&quot;;&#10;const propTypes = {&#10;    $PROPTYPES$&#10;};&#10;type Props = {&#10;    classes: Object,&#10;    t: TFunction,&#10;    $PROPS$&#10;};&#10;type State = {&#10;    $STATE$&#10;};&#10;const styles = theme =&gt; ({&#10;    //&#10;});&#10;class $NAME$ extends Component&lt;Props, State&gt; {&#10;    state = {&#10;        //$DEFAULT_STATE$&#10;    };&#10;    render() {&#10;        const { classes, t } = this.props;&#10;        return (&#10;            &lt;&gt;&lt;/&gt;&#10;        )&#10;    }&#10;}&#10;$NAME$.propTypes = propTypes;&#10;export default withTranslation()(withStyles(styles)($NAME$));&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROPS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROPTYPES" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEFAULT_STATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
