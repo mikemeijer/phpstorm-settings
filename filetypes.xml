@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="test" type="HTML" />
       <mapping pattern="SignatureField" type="JavaScript" />
+      <mapping pattern="laravel-datatables.md" type="Markdown" />
       <mapping pattern="MigrateFreshSeedOnce" type="PHP" />
     </extensionMap>
   </component>
