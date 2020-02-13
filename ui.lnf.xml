@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="23" />
+    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
   </component>
