@@ -2,9 +2,25 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="EditorBackSpace">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582130145813" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="OpenFile">
           <value>
             <ActionSummary>
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="SaveAll">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582130146543" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
