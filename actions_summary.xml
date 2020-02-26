@@ -405,8 +405,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582642491236" />
-              <option name="times" value="9" />
+              <option name="last" value="1582703683033" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -573,8 +573,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582647769241" />
-              <option name="times" value="687" />
+              <option name="last" value="1582703746257" />
+              <option name="times" value="688" />
             </ActionSummary>
           </value>
         </entry>
@@ -653,8 +653,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1582647223844" />
-              <option name="times" value="15" />
+              <option name="last" value="1582647795453" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
@@ -757,8 +757,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582642523264" />
-              <option name="times" value="37" />
+              <option name="last" value="1582703699892" />
+              <option name="times" value="38" />
             </ActionSummary>
           </value>
         </entry>
@@ -781,8 +781,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582557178502" />
-              <option name="times" value="34" />
+              <option name="last" value="1582702989276" />
+              <option name="times" value="36" />
             </ActionSummary>
           </value>
         </entry>
