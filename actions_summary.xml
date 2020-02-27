@@ -53,16 +53,16 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582811064898" />
-              <option name="times" value="586" />
+              <option name="last" value="1582814868925" />
+              <option name="times" value="589" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ActivateDatabaseToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582807278324" />
-              <option name="times" value="2" />
+              <option name="last" value="1582814723887" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -149,8 +149,8 @@
         <entry key="DatabaseView.AddActionGroupPopup">
           <value>
             <ActionSummary>
-              <option name="last" value="1582807285574" />
-              <option name="times" value="7" />
+              <option name="last" value="1582814729348" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -189,8 +189,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582811006345" />
-              <option name="times" value="4907" />
+              <option name="last" value="1582814840861" />
+              <option name="times" value="4916" />
             </ActionSummary>
           </value>
         </entry>
@@ -213,8 +213,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582809627903" />
-              <option name="times" value="511" />
+              <option name="last" value="1582814901494" />
+              <option name="times" value="515" />
             </ActionSummary>
           </value>
         </entry>
@@ -269,8 +269,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1582809617479" />
-              <option name="times" value="802" />
+              <option name="last" value="1582814867071" />
+              <option name="times" value="804" />
             </ActionSummary>
           </value>
         </entry>
@@ -293,8 +293,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1582809080410" />
-              <option name="times" value="469" />
+              <option name="last" value="1582814783557" />
+              <option name="times" value="470" />
             </ActionSummary>
           </value>
         </entry>
@@ -349,8 +349,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582810757783" />
-              <option name="times" value="437" />
+              <option name="last" value="1582814902685" />
+              <option name="times" value="442" />
             </ActionSummary>
           </value>
         </entry>
@@ -373,8 +373,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1582809665160" />
-              <option name="times" value="737" />
+              <option name="last" value="1582814685398" />
+              <option name="times" value="738" />
             </ActionSummary>
           </value>
         </entry>
@@ -685,8 +685,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582811065498" />
-              <option name="times" value="1014" />
+              <option name="last" value="1582814903798" />
+              <option name="times" value="1035" />
             </ActionSummary>
           </value>
         </entry>
@@ -813,8 +813,8 @@
         <entry key="com.intellij.database.dataSource.LocalDataSourceManager$2">
           <value>
             <ActionSummary>
-              <option name="last" value="1582789833900" />
-              <option name="times" value="5" />
+              <option name="last" value="1582814734580" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
