@@ -189,8 +189,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582803305518" />
-              <option name="times" value="4859" />
+              <option name="last" value="1582806424614" />
+              <option name="times" value="4865" />
             </ActionSummary>
           </value>
         </entry>
@@ -213,8 +213,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582802643471" />
-              <option name="times" value="504" />
+              <option name="last" value="1582806228507" />
+              <option name="times" value="507" />
             </ActionSummary>
           </value>
         </entry>
@@ -685,8 +685,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582803359406" />
-              <option name="times" value="943" />
+              <option name="last" value="1582806476846" />
+              <option name="times" value="949" />
             </ActionSummary>
           </value>
         </entry>
@@ -781,8 +781,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1582733022709" />
-              <option name="times" value="22" />
+              <option name="last" value="1582805336381" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -965,8 +965,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582789882271" />
-              <option name="times" value="48" />
+              <option name="last" value="1582805558499" />
+              <option name="times" value="50" />
             </ActionSummary>
           </value>
         </entry>
