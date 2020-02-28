@@ -45,8 +45,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582792509744" />
-              <option name="times" value="27" />
+              <option name="last" value="1582884062178" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
@@ -189,8 +189,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582820646411" />
-              <option name="times" value="5035" />
+              <option name="last" value="1582884101266" />
+              <option name="times" value="5036" />
             </ActionSummary>
           </value>
         </entry>
@@ -349,8 +349,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582820585644" />
-              <option name="times" value="456" />
+              <option name="last" value="1582884061719" />
+              <option name="times" value="458" />
             </ActionSummary>
           </value>
         </entry>
@@ -693,8 +693,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582820586234" />
-              <option name="times" value="1054" />
+              <option name="last" value="1582884102639" />
+              <option name="times" value="1063" />
             </ActionSummary>
           </value>
         </entry>
