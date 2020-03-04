@@ -53,8 +53,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1583327295673" />
-              <option name="times" value="1352" />
+              <option name="last" value="1583330016897" />
+              <option name="times" value="1423" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="BraceOrQuoteOut">
           <value>
             <ActionSummary>
-              <option name="last" value="1583161943520" />
-              <option name="times" value="4" />
+              <option name="last" value="1583329769904" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -197,8 +197,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1583328548169" />
-              <option name="times" value="9091" />
+              <option name="last" value="1583330015881" />
+              <option name="times" value="9242" />
             </ActionSummary>
           </value>
         </entry>
@@ -229,8 +229,8 @@
         <entry key="EditorCut">
           <value>
             <ActionSummary>
-              <option name="last" value="1583327977092" />
-              <option name="times" value="117" />
+              <option name="last" value="1583330004569" />
+              <option name="times" value="121" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +245,8 @@
         <entry key="EditorDeleteLine">
           <value>
             <ActionSummary>
-              <option name="last" value="1583320129073" />
-              <option name="times" value="29" />
+              <option name="last" value="1583329913929" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
@@ -261,8 +261,8 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1583328356769" />
-              <option name="times" value="638" />
+              <option name="last" value="1583330013261" />
+              <option name="times" value="657" />
             </ActionSummary>
           </value>
         </entry>
@@ -277,24 +277,24 @@
         <entry key="EditorDuplicate">
           <value>
             <ActionSummary>
-              <option name="last" value="1583324130107" />
-              <option name="times" value="95" />
+              <option name="last" value="1583330016345" />
+              <option name="times" value="96" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1583328354144" />
-              <option name="times" value="1670" />
+              <option name="last" value="1583330010521" />
+              <option name="times" value="1690" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorEscape">
           <value>
             <ActionSummary>
-              <option name="last" value="1583328342440" />
-              <option name="times" value="51" />
+              <option name="last" value="1583329862465" />
+              <option name="times" value="52" />
             </ActionSummary>
           </value>
         </entry>
@@ -309,8 +309,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1583327922501" />
-              <option name="times" value="920" />
+              <option name="last" value="1583329909721" />
+              <option name="times" value="952" />
             </ActionSummary>
           </value>
         </entry>
@@ -341,16 +341,16 @@
         <entry key="EditorLineStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1583250896114" />
-              <option name="times" value="11" />
+              <option name="last" value="1583329667490" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorNextWord">
           <value>
             <ActionSummary>
-              <option name="last" value="1583321478816" />
-              <option name="times" value="566" />
+              <option name="last" value="1583329898896" />
+              <option name="times" value="568" />
             </ActionSummary>
           </value>
         </entry>
@@ -373,32 +373,32 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1583327980578" />
-              <option name="times" value="849" />
+              <option name="last" value="1583330005615" />
+              <option name="times" value="852" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorPreviousWord">
           <value>
             <ActionSummary>
-              <option name="last" value="1583321474336" />
-              <option name="times" value="438" />
+              <option name="last" value="1583329909241" />
+              <option name="times" value="439" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorPreviousWordWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1583321479952" />
-              <option name="times" value="240" />
+              <option name="last" value="1583329846296" />
+              <option name="times" value="245" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1583328357304" />
-              <option name="times" value="1404" />
+              <option name="last" value="1583329923361" />
+              <option name="times" value="1436" />
             </ActionSummary>
           </value>
         </entry>
@@ -413,8 +413,8 @@
         <entry key="EditorScrollDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1583165963212" />
-              <option name="times" value="2" />
+              <option name="last" value="1583329924008" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -461,8 +461,8 @@
         <entry key="EditorTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1583327156488" />
-              <option name="times" value="744" />
+              <option name="last" value="1583330012897" />
+              <option name="times" value="888" />
             </ActionSummary>
           </value>
         </entry>
@@ -493,16 +493,16 @@
         <entry key="EditorUnindentSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1583327157473" />
-              <option name="times" value="35" />
+              <option name="last" value="1583330008586" />
+              <option name="times" value="38" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorUp">
           <value>
             <ActionSummary>
-              <option name="last" value="1583327128089" />
-              <option name="times" value="871" />
+              <option name="last" value="1583329921984" />
+              <option name="times" value="888" />
             </ActionSummary>
           </value>
         </entry>
@@ -613,8 +613,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1583328467321" />
-              <option name="times" value="344" />
+              <option name="last" value="1583329462872" />
+              <option name="times" value="345" />
             </ActionSummary>
           </value>
         </entry>
@@ -781,8 +781,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1583328343840" />
-              <option name="times" value="294" />
+              <option name="last" value="1583329541903" />
+              <option name="times" value="296" />
             </ActionSummary>
           </value>
         </entry>
@@ -821,8 +821,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1583328548761" />
-              <option name="times" value="1768" />
+              <option name="last" value="1583330017616" />
+              <option name="times" value="1782" />
             </ActionSummary>
           </value>
         </entry>
@@ -1101,8 +1101,8 @@
         <entry key="com.intellij.ide.actions.Switcher$SwitcherPanel$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1583324092185" />
-              <option name="times" value="77" />
+              <option name="last" value="1583329544422" />
+              <option name="times" value="79" />
             </ActionSummary>
           </value>
         </entry>
