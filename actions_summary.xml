@@ -45,8 +45,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1583749936956" />
-              <option name="times" value="61" />
+              <option name="last" value="1583753023446" />
+              <option name="times" value="62" />
             </ActionSummary>
           </value>
         </entry>
@@ -221,8 +221,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1583752692968" />
-              <option name="times" value="12394" />
+              <option name="last" value="1583753022480" />
+              <option name="times" value="12396" />
             </ActionSummary>
           </value>
         </entry>
@@ -845,8 +845,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1583752885385" />
-              <option name="times" value="383" />
+              <option name="last" value="1583753016865" />
+              <option name="times" value="387" />
             </ActionSummary>
           </value>
         </entry>
@@ -885,8 +885,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1583752883536" />
-              <option name="times" value="2154" />
+              <option name="last" value="1583753024408" />
+              <option name="times" value="2159" />
             </ActionSummary>
           </value>
         </entry>
@@ -965,8 +965,8 @@
         <entry key="SwitcherRecentEditedChangedToggleCheckBox">
           <value>
             <ActionSummary>
-              <option name="last" value="1583315801360" />
-              <option name="times" value="5" />
+              <option name="last" value="1583753005457" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -1189,8 +1189,8 @@
         <entry key="com.intellij.ide.actions.Switcher$SwitcherPanel$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1583749491029" />
-              <option name="times" value="91" />
+              <option name="last" value="1583753018049" />
+              <option name="times" value="92" />
             </ActionSummary>
           </value>
         </entry>
@@ -1309,8 +1309,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1583747158229" />
-              <option name="times" value="176" />
+              <option name="last" value="1583753014833" />
+              <option name="times" value="177" />
             </ActionSummary>
           </value>
         </entry>
