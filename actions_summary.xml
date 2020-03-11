@@ -578,6 +578,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="FileChooser.Refresh">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1583920441069" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="FileStructurePopup">
           <value>
             <ActionSummary>
@@ -821,8 +829,8 @@
         <entry key="OpenFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1583915550498" />
-              <option name="times" value="17" />
+              <option name="last" value="1583920437165" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
@@ -933,8 +941,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1583916526982" />
-              <option name="times" value="2451" />
+              <option name="last" value="1583921789955" />
+              <option name="times" value="2455" />
             </ActionSummary>
           </value>
         </entry>
