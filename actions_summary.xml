@@ -21,8 +21,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1583915572872" />
-              <option name="times" value="41" />
+              <option name="last" value="1583931638344" />
+              <option name="times" value="42" />
             </ActionSummary>
           </value>
         </entry>
@@ -669,8 +669,8 @@
         <entry key="GotoClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1583845545214" />
-              <option name="times" value="45" />
+              <option name="last" value="1583931361558" />
+              <option name="times" value="46" />
             </ActionSummary>
           </value>
         </entry>
@@ -797,8 +797,16 @@
         <entry key="NewDir">
           <value>
             <ActionSummary>
-              <option name="last" value="1583334994620" />
-              <option name="times" value="34" />
+              <option name="last" value="1583931621499" />
+              <option name="times" value="35" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="NewElement">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1583931619993" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -829,8 +837,8 @@
         <entry key="OpenFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1583920437165" />
-              <option name="times" value="19" />
+              <option name="last" value="1583930988958" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -893,8 +901,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1583916445790" />
-              <option name="times" value="463" />
+              <option name="last" value="1583931360059" />
+              <option name="times" value="464" />
             </ActionSummary>
           </value>
         </entry>
@@ -1061,8 +1069,8 @@
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
-              <option name="last" value="1583916522385" />
-              <option name="times" value="42" />
+              <option name="last" value="1583931246481" />
+              <option name="times" value="44" />
             </ActionSummary>
           </value>
         </entry>
@@ -1277,8 +1285,8 @@
         <entry key="com.intellij.ide.actions.Switcher$SwitcherPanel$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1583837771736" />
-              <option name="times" value="99" />
+              <option name="last" value="1583931361174" />
+              <option name="times" value="101" />
             </ActionSummary>
           </value>
         </entry>
@@ -1325,8 +1333,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583834870347" />
-              <option name="times" value="130" />
+              <option name="last" value="1583931363070" />
+              <option name="times" value="131" />
             </ActionSummary>
           </value>
         </entry>
