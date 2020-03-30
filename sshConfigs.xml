@@ -1,0 +1,16 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="192.168.1.16" id="573d1a3b-449b-417b-9ead-69d6d9a1bcb5" port="22" />
+      <sshConfig authType="PASSWORD" host="192.168.1.17" id="ea85e236-00a9-4eaa-94d1-a4fcd4e68c1f" port="22" />
+      <sshConfig authType="PASSWORD" host="192.168.1.17" id="ab1c5028-5be4-475f-b5b3-01af343c736c" port="22" />
+      <sshConfig authType="PASSWORD" host="192.168.1.16" id="b5c070db-ae91-4d06-98de-7678af3e5aea" port="22" />
+      <sshConfig authType="PASSWORD" host="192.168.1.17" id="2d17335b-7068-498a-8034-ace45af9b347" port="22" />
+      <sshConfig authType="PASSWORD" host="192.168.1.17" id="5b57b74e-1538-43c5-a36c-7538538c336c" port="22" />
+      <sshConfig authType="PASSWORD" host="192.168.1.17" id="6d2bd91c-1ca2-4430-921e-1891742c53c0" port="22" />
+      <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="62989a89-85f8-4975-81ec-f1909fd1a85a" port="22" />
+      <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="88aca445-e94f-402a-a982-c0e4e747118d" port="22" />
+      <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="90fabac7-e13b-4038-9271-97674459953b" port="22" />
+    </configs>
+  </component>
+</application>
