@@ -31,6 +31,16 @@
       <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="c0528eb7-9d73-4c4f-a194-d5d0fd2b0901" port="22" />
       <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="d3b00dd4-5764-43e8-95c8-ea7ef4daec0f" port="22" />
       <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="9406e057-21d4-47db-85c9-ceb576849d9f" port="22" />
+      <sshConfig authType="PASSWORD" host="192.168.1.16" id="8ec48f86-3c9a-4fed-b17c-766ddc7b26ed" port="22" customName="Virtual Machine - Users API" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.17" id="b3125d26-6096-42e2-846d-e9e8725c48a4" port="22" customName="Virtual Machine  -  Learning Git" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.17" id="d65a4914-07b8-4d3a-b23c-a3692efd80f9" port="22" customName="Virtual Machine - Management API" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.16" id="4687ea3e-b898-4db3-a69e-01bef579c9d4" port="22" customName="Virtual Machine - Phonebook API" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.17" id="57f4f254-6b47-410c-b55a-5150a4512b04" port="22" customName="Virtual Machine - Socket.io Server" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.17" id="13e4cc92-6310-4155-9174-bc94c19c12aa" port="22" customName="Virtual Machine - Routing Laravel API" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.17" id="02859b59-f743-4974-a334-df8d6852e656" port="22" customName="Virtual Machine - Hosted API" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="a8a20083-ea5f-40a4-a2f5-e72e65aa0051" port="22" customName="PolderToto Plugin" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="51e01d31-41db-47e0-ab57-d1ccdbcee0bf" port="22" customName="Cronjobs Poldertoto" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="60cd1409-6573-47cd-8e71-adebc8ce5280" port="22" customName="Poldertoto - Development" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
