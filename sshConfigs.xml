@@ -81,6 +81,16 @@
       <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="1a3330cf-0309-4c3a-9f0f-5a2ece64fa63" port="22" customName="PolderToto Plugin" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="cb5d12de-b04e-4d0a-ad6c-4aa3a6a80d1f" port="22" customName="Cronjobs Poldertoto" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="93d725ab-1617-4758-ab98-f2c4056e7154" port="22" customName="Poldertoto - Development" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.16" id="60f088f8-7110-469e-9661-5435336045d2" port="22" customName="Virtual Machine - Users API" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.17" id="abde7731-2b4f-42af-b156-b013e657d285" port="22" customName="Virtual Machine  -  Learning Git" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.17" id="f04e2e04-7884-4786-bfb1-4f8a0dd1bf2b" port="22" customName="Virtual Machine - Management API" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.16" id="f2ae23a0-6817-452a-9f60-d22a69c04823" port="22" customName="Virtual Machine - Phonebook API" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.17" id="a5d0e66a-b44d-45f4-b709-e5a73b181401" port="22" customName="Virtual Machine - Socket.io Server" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.17" id="63440d8a-d95c-458b-8851-5cb2a60f532e" port="22" customName="Virtual Machine - Routing Laravel API" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.17" id="09b2dbce-71fc-4aa4-a1e9-1165fe35885e" port="22" customName="Virtual Machine - Hosted API" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="1cb210da-b74c-4d69-a9c3-8c604235f248" port="22" customName="PolderToto Plugin" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="0f995b50-7d8c-4325-9a93-e7eacb6fce6c" port="22" customName="Cronjobs Poldertoto" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="ed4e052f-2005-47d9-9ec1-a0ed7624a695" port="22" customName="Poldertoto - Development" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
