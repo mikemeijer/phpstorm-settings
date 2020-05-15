@@ -1,84 +1,11 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="7fe03272-a30d-4b8c-b83e-898fa6e952e7" name="Virtual Machine - Users API" url="http://192.168.1.16">
-        <fileTransfer host="192.168.1.16" port="22" rootFolder="/var/www/html/users-api" accessType="SFTP">
+      <webServer id="1b151b0a-3d26-43ef-b838-eb4337e4da49" name="Vagrant - flevoberry.test" url="http://flevoberry.test">
+        <fileTransfer accessType="SFTP" host="192.168.100.10" port="22" sshConfigId="56647750-adb0-4dbc-b532-b649f7bba21f" sshConfig="VAGRANT !!">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="d9f02415-89bc-4ffe-b618-9cbe471beb3e" name="Virtual Machine  -  Learning Git" url="http://192.168.1.17">
-        <fileTransfer host="192.168.1.17" port="22" rootFolder="/var/www/html/learning-git" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="70b68358-e378-48c5-a625-a9dc484fa176" name="Virtual Machine - Management API" url="http://192.168.1.17">
-        <fileTransfer host="192.168.1.17" port="22" rootFolder="/var/www/html/management-laravel-api" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="b139b93e-2c1f-40be-a193-b8f305cfbcd6" name="Virtual Machine - Phonebook API" url="http://192.168.1.16">
-        <fileTransfer host="192.168.1.16" port="22" rootFolder="/var/www/html/phonebook-laravel-api" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="5c1962ba-6b6d-485d-912d-2b4e20490288" name="Virtual Machine - Socket.io Server" url="http://192.168.1.17">
-        <fileTransfer host="192.168.1.17" port="22" rootFolder="/var/www/html/socket-io-server" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="045b1cf9-e9b4-4eeb-a141-a2f1124fdd2e" name="Virtual Machine - Routing Laravel API" url="http://192.168.1.17">
-        <fileTransfer host="192.168.1.17" port="22" rootFolder="/var/www/html/routing-laravel-api" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="2a46616e-08cf-4c18-8798-2e9846c25714" name="Virtual Machine - Hosted API" url="http://192.168.1.17">
-        <fileTransfer host="192.168.1.17" port="22" rootFolder="/var/www/html/hosted-laravel-api" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="e1d10496-cc5c-4426-8dc0-7ac8a650861e" name="PolderToto Plugin" url="http://poldertoto.nl.transurl.nl">
-        <fileTransfer host="poldertoto.nl.transurl.nl" port="22" rootFolder="/subdomains/dev/wp-content/plugins/poldertoto-plugin" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="db65224e-2211-4587-b1f3-0dcc4cb12922" name="Cronjobs Poldertoto" url="http://poldertoto.nl.transurl.nl">
-        <fileTransfer host="poldertoto.nl.transurl.nl" port="22" rootFolder="/www/cronjobs/mails" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="597be6bc-0e40-47a5-9418-f2df4be75beb" name="Poldertoto - Development" url="http://poldertoto.nl.transurl.nl">
-        <fileTransfer host="poldertoto.nl.transurl.nl" port="22" rootFolder="/subdomains/dev" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
