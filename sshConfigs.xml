@@ -221,6 +221,7 @@
       <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="ed2452cc-436e-4989-b305-808a4f2dff1e" port="22" customName="PolderToto Plugin" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="0a0bdccb-7a1a-4c1f-9d10-bf7c27fcdfda" port="22" customName="Cronjobs Poldertoto" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="poldertoto.nl.transurl.nl" id="86534f59-e719-4827-afd9-3eb5b2cab4b3" port="22" customName="Poldertoto - Development" nameFormat="CUSTOM" />
+      <sshConfig host="localhost" id="56647750-adb0-4dbc-b532-b649f7bba21f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" />
     </configs>
   </component>
 </application>
