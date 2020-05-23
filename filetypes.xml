@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="test" type="HTML" />
+      <mapping pattern="ProductCarrier" type="JavaScript" />
+      <mapping pattern="SignatureField" type="JavaScript" />
+      <mapping pattern="laravel-datatables.md" type="Markdown" />
+      <mapping pattern="ProductCarrierResource" type="PHP" />
+      <mapping pattern="class ProductCarrierDetailJobOrder" type="PHP" />
+      <mapping pattern="LocationTypes" type="PHP" />
+      <mapping pattern="ProductCarrierProductResource" type="PHP" />
+      <mapping pattern="MigrateFreshSeedOnce" type="PHP" />
+      <mapping pattern="ProductCarrierDetailJobOrder.PHP" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
