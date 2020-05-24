@@ -1,0 +1,8 @@
+This file contains a list with the plugins to install and uninstall.
+
+To Install:
+- GitToolBox
+- Laravel
+- .env files support
+- Handlebars/Mustache
+- PHP annotations
