@@ -12,6 +12,8 @@
       <mapping pattern="DownloadAgendaItemPresenceListController" type="PHP" />
       <mapping pattern="MigrateFreshSeedOnce" type="PHP" />
       <mapping pattern="ProductCarrierDetailJobOrder.PHP" type="PLAIN_TEXT" />
+      <mapping pattern="DBUserPoulePointPerWeekDataMapper.php" type="PLAIN_TEXT" />
+      <mapping pattern=" ak]" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
