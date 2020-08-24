@@ -9,6 +9,7 @@
       <mapping pattern="class ProductCarrierDetailJobOrder" type="PHP" />
       <mapping pattern="LocationTypes" type="PHP" />
       <mapping pattern="ProductCarrierProductResource" type="PHP" />
+      <mapping pattern="QueryInterface" type="PHP" />
       <mapping pattern="DownloadAgendaItemPresenceListController" type="PHP" />
       <mapping pattern="MigrateFreshSeedOnce" type="PHP" />
       <mapping pattern="DBUserPoulePointPerWeekDataMapper.php" type="PLAIN_TEXT" />
