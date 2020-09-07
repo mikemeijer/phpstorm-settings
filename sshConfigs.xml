@@ -1,9 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" host="127.0.0.1" id="cf27607a-c60c-4517-accd-1a36d56e7361" port="2222" customName="Homestead SSH" nameFormat="CUSTOM" username="vagrant">
-        <option name="customName" value="Homestead SSH" />
-      </sshConfig>
-    </configs>
-  </component>
-</application>
