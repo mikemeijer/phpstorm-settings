@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="192.168.100.10" id="8e9c5a65-11ae-46be-afb7-e2a54d7375c1" port="22" customName="Homestead" nameFormat="CUSTOM" username="vagrant">
+        <option name="customName" value="Homestead" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
