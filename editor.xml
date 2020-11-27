@@ -1,3 +1,6 @@
 <application>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="LiveEditOptions" updatePolicy="AUTO" />
 </application>
