@@ -1,9 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="assigned-workplaces-table" type="PHP" />
-      <mapping ext="blade" type="PHP" />
-      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="graphqlconfig" type="JSON" />
     </extensionMap>
   </component>
 </application>
