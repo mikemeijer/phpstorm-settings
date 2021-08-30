@@ -1,8 +1,8 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="192.168.100.10" id="8e9c5a65-11ae-46be-afb7-e2a54d7375c1" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Homestead" nameFormat="CUSTOM" username="vagrant">
-        <option name="customName" value="Homestead" />
+      <sshConfig host="vhm-online.nl" id="8e9c5a65-11ae-46be-afb7-e2a54d7375c1" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="vhm-online.nl" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="vhm-online.nl" />
       </sshConfig>
       <sshConfig host="mcmonline.nl" id="8e9c5a65-11ae-46be-afb7-e2a54d7375c1" keyPath="C:\Users\mmeijer\.ssh\putty-keys\private-key.ppk" port="22" customName="mcmonline.nl" nameFormat="CUSTOM" username="ploi">
         <option name="customName" value="mcmonline.nl" />
