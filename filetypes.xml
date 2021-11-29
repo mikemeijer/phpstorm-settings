@@ -8,7 +8,6 @@
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
-      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="js" approved="true" type="JavaScript" />
     </extensionMap>
   </component>
