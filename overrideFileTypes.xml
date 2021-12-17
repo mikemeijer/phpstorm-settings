@@ -1,5 +1,8 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Code/modbus/public/js/modbus/edit.js" value="JavaScript" />
+    <file url="file://$USER_HOME$/Code/modbus/public/js/modbus/index.js" value="JavaScript" />
+    <file url="file://$USER_HOME$/Code/modbus/public/js/modbus/show.js" value="JavaScript" />
     <file url="file://$USER_HOME$/Code/modbus/resources/js/app.js" value="JavaScript" />
     <file url="file://$USER_HOME$/Code/modbus/resources/js/bootstrap.js" value="JavaScript" />
     <file url="file://$USER_HOME$/Code/modbus/resources/js/modbus/chart/Chart.js" value="JavaScript" />
