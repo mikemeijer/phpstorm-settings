@@ -1,9 +1,14 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="javascript" type="JavaScript" />
+      <mapping pattern=".valetphprc" type="PLAIN_TEXT" />
+      <mapping ext="js" type="PLAIN_TEXT" />
       <mapping ext="blade" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
+      <removed_mapping ext="js" approved="true" type="JavaScript" />
     </extensionMap>
   </component>
 </application>
