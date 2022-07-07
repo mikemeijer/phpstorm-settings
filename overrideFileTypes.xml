@@ -1,26 +1,5 @@
 <application>
   <component name="OverrideFileTypeManager">
-    <file url="file://$USER_HOME$/Code/js-server/BroadcastServer.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Code/js-server/Log.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Code/js-server/Modbus.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Code/js-server/ModbusRepository.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Code/js-server/ModbusServer.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Code/js-server/MySQL.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Code/js-server/Register.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Code/js-server/RegisterRepository.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Code/mateboer-makeover/public/css/app.css" />
-    <file url="file://$USER_HOME$/Code/mateboer-makeover/public/js/app.js" />
-    <file url="file://$USER_HOME$/Code/mateboer-makeover/public/js/bootstrap-tourist.js" />
-    <file url="file://$USER_HOME$/Code/mateboer-makeover/public/js/signature_pad.min.js" />
-    <file url="file://$USER_HOME$/Code/mateboer-makeover/public/js/signatures.js" />
-    <file url="file://$USER_HOME$/Code/mateboer-makeover/public/old/js/complains.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Code/mateboer-makeover/resources/js/app.js" />
-    <file url="file://$USER_HOME$/Code/modbus/public/js/modbus/edit.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Code/modbus/public/js/modbus/index.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Code/modbus/public/js/modbus/show.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Code/modbus/resources/js/app.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Code/modbus/resources/js/bootstrap.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Code/modbus/resources/js/modbus/chart/Chart.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Code/overview/core/resources/js/alpinejs.js" value="JavaScript" />
+    <file url="file://$USER_HOME$/Code/teamgenerator/resources/js/app.js" value="JavaScript" />
   </component>
 </application>
