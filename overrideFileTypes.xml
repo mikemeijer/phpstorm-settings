@@ -1,6 +1,10 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/Code/glob-kenniss/educator/src/tailwind.config.js" value="JavaScript" />
+    <file url="file://$USER_HOME$/Code/mr-green/screens/src/postcss.config.js" value="JavaScript" />
+    <file url="file://$USER_HOME$/Code/mr-green/screens/src/src/tailwind/plugins/aria-expanded.js" value="JavaScript" />
+    <file url="file://$USER_HOME$/Code/mr-green/screens/src/src/tailwind/plugins/aria-selected.js" value="JavaScript" />
+    <file url="file://$USER_HOME$/Code/mr-green/screens/src/src/tailwind/plugins/inset-shadow.js" value="JavaScript" />
     <file url="file://$USER_HOME$/Code/mr-green/screens/src/tailwind.config.js" value="JavaScript" />
   </component>
 </application>
