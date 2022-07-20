@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="javascript" type="JavaScript" />
       <mapping pattern=".valetphprc" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="js" type="PLAIN_TEXT" />
       <mapping ext="blade" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
