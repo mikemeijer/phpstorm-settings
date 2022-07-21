@@ -5,6 +5,9 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="EslintImportCodeStyle">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="FileChooser.NewFolder" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
