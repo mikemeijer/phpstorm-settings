@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Code/glob-kenniss/educator/src/.eslintrc.js" value="JavaScript" />
     <file url="file://$USER_HOME$/Code/glob-kenniss/educator/src/jest.setup.js" value="ECMAScript 6" />
     <file url="file://$USER_HOME$/Code/glob-kenniss/educator/src/tailwind.config.js" value="JavaScript" />
     <file url="file://$USER_HOME$/Code/mr-green/screens/src/.eslintrc.js" value="JavaScript" />
