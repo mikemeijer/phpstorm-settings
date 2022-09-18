@@ -4,13 +4,14 @@
     <property name="created">2018-12-10T09:17:29</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2022-09-18T09:56:07</property>
+    <property name="modified">2022-09-08T13:43:58</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
