@@ -15,5 +15,6 @@
     <mask>*.ctp</mask>
     <mask>*.php</mask>
     <mask>j</mask>
+    <mask>*.spec.ts</mask>
   </component>
 </application>
